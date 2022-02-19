@@ -1,7 +1,4 @@
-# Syracuse-conjecture
-# -------------------
-
-
+# Syracuse Conjecture
 The Syracuse conjecture is a mathematical problem still unsolved to this day (19/02/2022).
 
 We consider a positive natural number, if it is even we divide the figure by 2, if it is odd we multiply the figure by 3 and we add 1. By restarting the algorithm with the newly obtained figure, we end up obtaining at each attempt the cycle 4 -> 2 -> 1 -> 4 ...
